@@ -1,0 +1,62 @@
+{
+    "apiEndPoint": "http://lileospa.eu/SpaWebApi/",
+    "authenticationEndPoint": "http://lileospa.eu/authenticate/",
+    "language": "en-GB",
+    "key": "BELGIUMSPA1",
+    "paypalKey": "",
+    "stripePublishKey": "pk_live_zwAd5DwdyWEEvXfpOIiFFRzF00lLkAWzzw",
+    "intent": "CAPTURE",
+    "Currency": "EUR",
+    "productCategories": [
+      {
+        "name": "Boissons",
+        "icon": "fas fa-cocktail"
+      },
+      {
+        "name": "L'hygiène",
+        "icon": "fas fa-hands-wash"
+      },
+      {
+        "name": "De l'alcool",
+        "icon": "fas fa-wine-bottle"
+      },
+      {
+        "name": "Restaurants",
+        "icon": "fas fa-utensils"
+      },
+      {
+        "name": "Se soucier",
+        "icon": "fas fa-hand-holding-medical"
+      },
+        {
+            "name": "Personne",
+            "icon": "fab fa-speaker-deck"
+        }
+    ],
+    "picsArt":[
+       {
+      "roomType": "DESERT PINK",
+      "images": ["Desert Pink (1).jpg", "Desert Pink (2).jpg", "Desert Pink (3).jpg", "Desert Pink (4).jpg", "Desert Pink (5).jpg", "Desert Pink (6).jpg"]
+    },
+    {
+      "roomType": "COOKIE BROWN",
+      "images": ["COOKIE BROWN.jpg", "gallery-V4-1.jpg", "gallery-V4-2.jpg", "gallery-V4-3.jpg"]
+    },
+    {
+      "roomType": "BLACK WOOD",
+      "images": ["Black Wood (1).jpg", "Black Wood (2).jpg", "Black Wood (3).jpg", "Black Wood (4).jpg", "Black Wood (5).jpg" , "Black Wood (6).jpg", "Black Wood (7).jpg", "Black Wood (8).jpg"]
+    },
+    {
+      "roomType": "LOFT",
+      "images": ["Loft Room(1).jpg", "Loft Room(2).jpg", "Loft Room(3).jpg", "Loft Room(4).jpg", "Loft Room(5).jpg", "Loft Room(6).jpg", "Loft Room(7).jpg", "Loft Room(8).jpg"]
+    },
+    {
+      "roomType": "BORA BORA",
+      "images": ["Bora Bora (1).jpg", "Bora Bora (2).jpg", "Bora Bora (3).jpg", "Bora Bora (4).jpg", "Bora Bora (5).jpg", "Bora Bora (6).jpg", "Bora Bora (7).jpg"]
+    },
+    {
+      "roomType": "BALI",
+      "images": ["Bali Room (1).jpg", "Bali Room (2).jpg", "Bali Room (3).jpg", "Bali Room (4).jpg", "Bali Room (5).jpg", "Bali Room (6).jpg", "Bali Room (7).jpg", "Bali Room (8).jpg"]
+    }
+    ]
+}
